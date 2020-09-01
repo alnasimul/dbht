@@ -1,0 +1,17 @@
+header .headerArea{
+    display: flex;
+    background-color: rgb(194, 174, 196);
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 71px rgb(105, 17, 146);
+}
+
+.logo{
+    margin: 50px 50px
+}
+
+.sampleImg{
+    width:30%;
+    margin-left: 870px;
+    margin-top:50px;
+}
